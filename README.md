@@ -10,7 +10,19 @@ The first phase of this project provides the planning and design of a software s
 The main phase describes the implementation of the solution using rapid application development methodology. 
 In the final phase, the implemented solution is evaluated, concluding it is a good candidate for the aforementioned application.
 
-[**Thesis**](/Thesis.pdf)
+### Thesis
 
-[**Slides**](/Slides.pdf)
+[![Thesis](/thesis-thumb.png)](/Thesis.pdf)
+
+
+### Slides
+
+[![Slides](/slides-thumb.png)](/Slides.pdf)
+
+
+### Solution
+
+A public version of the solution is available at https://github.com/llop/ide-jutge-local
+
+[![Slides](/ide-sceenshot.png)](https://github.com/llop/ide-jutge-local)
 
