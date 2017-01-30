@@ -24,5 +24,13 @@ In the final phase, the implemented solution is evaluated, concluding it is a go
 
 A public version of the solution is available at https://github.com/llop/ide-jutge-local
 
-[![Slides](/ide-sceenshot.png)](https://github.com/llop/ide-jutge-local)
+[![Solution](/ide-sceenshot.png)]
+
+### Author
+
+**Albert Lobo Cusidó** - [llop](https://github.com/llop)
+
+### License
+
+These documents are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details
 
