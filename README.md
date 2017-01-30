@@ -24,7 +24,7 @@ In the final phase, the implemented solution is evaluated, concluding it is a go
 
 A public version of the solution is available at https://github.com/llop/ide-jutge-local
 
-[![Solution](/ide-sceenshot.png)]
+![Solution](/ide-sceenshot.png)
 
 ### Author
 
